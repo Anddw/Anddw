@@ -14,14 +14,12 @@
 <hr>
 
 <pre>
-💻 I am a systems engineer with two years of experience as a software developer, I have experience in the Java and PHP programming languages.
+💻  I am a systems engineer with two years of experience as a software developer, I have experience in Java programming languages.
 📚 I am a certified systems engineer from the University of Tolima.
-📝 I have a strong interest in Data Science and Artificial Intelligence.
+📝 I have a great interest in software and database development.
 🔭 Working on Deep Learning & Machine Learning.
-🌱 Learning about Computer Vision and Machine Learning stuff.
-🌟 Main languages: Java, PHP.
-🚩 Interested in Full Stack Machine Learning Application development.
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank"></a>
+🌟 Main languages: Java, PHP. among others
+🚩 Interested in developing applications using the Java language.
 </pre>
 
 <hr>

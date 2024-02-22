@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://github.com/Bouaskaoun">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Systems-Engineer-Backend-developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Systems-Engineer-Backend-developer;Always%20learning%20new%20things&center=true&width=380&height=45">
     </a>
 </p>
 
@@ -28,16 +28,17 @@
 
 ## 🤝 Connect with me
 
-<p align="center">
+<p align="left">
     <a href="anddresbuitragow@gmail.com">
         <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://www.linkedin.com/in/bouaskaoun/">
         <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://github.com/Bouaskaoun](https://github.com/Anddw)">
+    <a href="https://github.com/Anddw">
         <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-
+    </a>
+</p>
 
 ## 🛠️ My Favorite Tools
 

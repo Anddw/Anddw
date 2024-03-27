@@ -40,6 +40,7 @@
 
 ## 🛠️ My Favorite Tools
 
+
 ### 👨‍💻 Programming Languages
 
 <p>
@@ -49,7 +50,11 @@
     <a href="https://github.com/Bouaskaoun">
         <img alt="PHP" src="https://img.shields.io/badge/PHP-%2314354C.svg?logo=php&logoColor=white">
     </a>
+    <a href="https://github.com/Bouaskaoun">
+        <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white">
+    </a>
 </p>
+
 
 ### 🧰 Frameworks and Libraries
 
@@ -63,7 +68,11 @@
     <a href="https://github.com/Bouaskaoun">
         <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white">
     </a>
+    <a href="https://github.com/Bouaskaoun">
+        <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
+    </a>
 </p>
+
 
 ### 🗄️ Databases and Cloud Hosting
 

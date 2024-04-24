@@ -71,6 +71,9 @@
     <a href="https://github.com/Bouaskaoun">
         <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
     </a>
+    <a href="https://github.com/Bouaskaoun">
+        <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
+    </a>
 </p>
 
 
@@ -83,7 +86,11 @@
     <a href="https://github.com/Bouaskaoun">
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23013243.svg?logo=mysql&logoColor=white">
     </a>
+    <a href="https://github.com/Bouaskaoun">
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white">
+    </a>
 </p>
+
 
 ### 💻 Software and Tools
 
